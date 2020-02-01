@@ -40,6 +40,8 @@ Create a web app to preview aggregated fonts if allowed.
 - [fontsquirrel.com](https://www.fontsquirrel.com/fonts/list/language/greek)
 - [fontspace.com](https://www.fontspace.com/category/greek)
 - [fontfabric.com](https://www.fontfabric.com/fonts/#languages=greek)
+- [colophon-foundry.org](https://www.colophon-foundry.org/typefaces)
+- [paratype.com](https://www.paratype.com/catalog?languages%5B0%5D%5Bcode%5D=lg-30&sortType=alphabet)
 
 
 ## Licence
