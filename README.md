@@ -14,6 +14,7 @@ Create a web app to preview aggregated fonts if allowed.
 
 ## Open Source fonts
 - [Google Fonts](https://fonts.google.com/?subset=greek&sort=alpha), 43 families
+- [Adobe Fonts](https://fonts.adobe.com/fonts?browse_mode=default&languages=el&sort=alpha)
 - [Εταιρεία Ελληνικών Τυπογραφικών Στοιχείων, ΕΕΤΣ](https://www.greekfontsociety-gfs.gr/typefaces), 34 families
 - [Eczar Greek Fonts](https://github.com/eellak/gsoc17-Eczar), 1 family
 
@@ -24,7 +25,6 @@ Create a web app to preview aggregated fonts if allowed.
 - [Aka Acid - Pixel Fonts](http://www.aka-acid.com/pixelfonts.html), 18 families
 - [backpacker.gr](https://backpacker.gr/fonts), 20 families
 - [Grixel Fonts](http://www.grixel.gr), 6 families
-- [fontfabric.com](https://www.fontfabric.com/fonts/#languages=greek), 7 families
 - [+CYN fonts](https://cynfonts.blogspot.com)
 
 
@@ -33,11 +33,13 @@ Create a web app to preview aggregated fonts if allowed.
 - [parachutefonts.com](https://www.parachutefonts.com/typefaces/allfonts/215)
 - [backpacker.gr](https://backpacker.gr/fonts)
 - [atypical.gr](https://atypical.gr/fonts)
+- [Adobe Fonts](https://fonts.adobe.com/fonts?browse_mode=default&languages=el&sort=alpha)
 - [typography.com](https://www.typography.com/fonts/styles/greek)
-- [myfonts.com](https://www.myfonts.com/search/tag:greek/all/)
+- [myfonts.com](https://www.myfonts.com/search/tag:greek/all)
 - [fontspring.com](https://www.fontspring.com/language/greek)
 - [fontsquirrel.com](https://www.fontsquirrel.com/fonts/list/language/greek)
 - [fontspace.com](https://www.fontspace.com/category/greek)
+- [fontfabric.com](https://www.fontfabric.com/fonts/#languages=greek)
 
 
 ## Licence
