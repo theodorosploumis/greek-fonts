@@ -45,4 +45,4 @@ Create a web app to preview aggregated fonts if allowed.
 
 
 ## Licence
-[MIT](LICENCE) Theodoros Ploumis 2020.
+[MIT](LICENCE) Theodoros Ploumis 2020 2022.
