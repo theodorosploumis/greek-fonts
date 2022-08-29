@@ -9,10 +9,12 @@ Create a web app to preview aggregated fonts if allowed.
 ----
 
 ## Search Greek fonts
+
 - [fonts.consider.gr](https://fonts.consider.gr)
 
 
 ## Open Source fonts
+
 - [Google Fonts](https://fonts.google.com/?subset=greek&sort=alpha), 43 families
 - [Adobe Fonts](https://fonts.adobe.com/fonts?browse_mode=default&languages=el&sort=alpha)
 - [Εταιρεία Ελληνικών Τυπογραφικών Στοιχείων, ΕΕΤΣ](https://www.greekfontsociety-gfs.gr/typefaces), 34 families
@@ -20,6 +22,7 @@ Create a web app to preview aggregated fonts if allowed.
 
 
 ## Freeware fonts
+
 - [Aka Acid - Script Fonts](http://www.aka-acid.com/scriptfonts.html), 96 families
 - [Aka Acid - Text Fonts](http://www.aka-acid.com/textfonts.html), 30 families
 - [Aka Acid - Pixel Fonts](http://www.aka-acid.com/pixelfonts.html), 18 families
@@ -29,6 +32,7 @@ Create a web app to preview aggregated fonts if allowed.
 
 
 ## Commercial fonts
+
 - [fonts.gr](https://fonts.gr)
 - [parachutefonts.com](https://www.parachutefonts.com/typefaces/allfonts/215)
 - [backpacker.gr](https://backpacker.gr/fonts)
@@ -43,6 +47,11 @@ Create a web app to preview aggregated fonts if allowed.
 - [colophon-foundry.org](https://www.colophon-foundry.org/typefaces)
 - [paratype.com](https://www.paratype.com/catalog?languages%5B0%5D%5Bcode%5D=lg-30&sortType=alphabet)
 
+# Polytonic Fonts
+
+- [polytoniko.org](http://www.polytoniko.org/fonts.php)
+- [alopsis.gr](https://alopsis.gr/%cf%80%ce%bf%ce%bb%cf%85%cf%84%ce%bf%ce%bd%ce%b9%ce%ba%ce%ad%cf%82-%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%bf%cf%83%ce%b5%ce%b9%cf%81%ce%ad%cf%82/)
 
 ## Licence
+
 [MIT](LICENCE) Theodoros Ploumis 2020 2022.
