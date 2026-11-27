@@ -1,12 +1,5 @@
 # Awesome Greek fonts
 > A list to find Greek fonts. Free, open source but also paid families included.
-Feel free to contribute.
-
-**ToDo**
-
-Create a web app to preview aggregated fonts if allowed.
-
-----
 
 ## Search Greek fonts
 
